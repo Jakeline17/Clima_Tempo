@@ -1,10 +1,10 @@
 # Previsão do Tempo
-Este projeto é uma aplicação simples que permite a consulta da temperatura atual do clima na cidade inserida,foi desenvolvido utilizando HTML, CSS e Typescript para o curso Trilha Front End da ADA Tech.
+Este projeto é uma aplicação simples, que permite a consulta da temperatura atual do clima na cidade inserida pelo usuario, foi desenvolvido utilizando HTML, CSS, Typescript e integrado com a API OpenWeatherAPI, para o curso Trilha Front End da ADA Tech.
 
 ## Demonstração
 Você pode visualizar e testar a aplicação publicada no GitHub Pages acessando o seguinte link:
 
-[link](url '')
+[link](url="https://jakeline17.github.io/Clima_Tempo/")
 
 ## Funcionalidades
 - Pesquisa por cidades
