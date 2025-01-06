@@ -13,9 +13,10 @@ body {
 }
 main {
   padding: 2rem;
-  background-color: #a4ddf0;
+  background-color: #24bbf3;
   border-radius: 10px;
   max-width: 800px;
+  height: 300px;
 }
 main > h1 {
   font-size: 2.5rem;
