@@ -4,7 +4,7 @@ Este projeto é uma aplicação simples, que permite a consulta da temperatura a
 ## Demonstração
 Você pode visualizar e testar a aplicação publicada no GitHub Pages acessando o seguinte link:
 
-[link](url="https://jakeline17.github.io/Clima_Tempo/")
+[link]('https://jakeline17.github.io/Clima_Tempo/')
 
 ## Funcionalidades
 - Pesquisa por cidades
